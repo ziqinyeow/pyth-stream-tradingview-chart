@@ -1,4 +1,4 @@
-# Pyth API with [Trading View Advanced Chart](https://www.tradingview.com/advanced-charts/)
+# [Pyth API](https://pyth.network/) with [Trading View Advanced Chart](https://www.tradingview.com/advanced-charts/)
 
 ## What is Charting Library
 
